@@ -30,7 +30,7 @@ app.use((req,rest,next) =>{
 });
 
 app.use((req,res, next) => {
-    res.render('maintenance.hbs');
+    //res.render('maintenance.hbs');
 
 });
 
